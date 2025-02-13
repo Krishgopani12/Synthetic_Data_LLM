@@ -6,7 +6,6 @@ This project provides a tool for generating synthetic data based on sample CSV f
 - Configurable number of synthetic rows
 - Adjustable number of example rows for context
 - Temperature control for output variation
-- Automatic type inference for data fields
 - Progress tracking during generation
 - Sample data preservation
 
@@ -18,7 +17,6 @@ This project provides a tool for generating synthetic data based on sample CSV f
   - numpy
   - langchain
   - langchain-openai
-  - pydantic
 
 ## Setup
 1. Clone this repository
@@ -33,10 +31,6 @@ python synthetic_data_generator.py
 ```
 
 ## Key Functions
-
-### `infer_field_types(df)`
-- Automatically infers Pydantic field types from DataFrame columns
-- Supports int, float, string, boolean, and datetime types
 
 ### `create_examples(df, num_examples, random_seed)`
 - Creates example dictionaries from the sample DataFrame
