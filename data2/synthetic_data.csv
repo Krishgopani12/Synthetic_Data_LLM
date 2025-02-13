@@ -1,0 +1,51 @@
+Customer ID,Age,Gender,Item Purchased,Category,Purchase Amount (USD),Location,Size,Color,Season,Review Rating,Subscription Status,Shipping Type,Discount Applied,Promo Code Used,Previous Purchases,Payment Method,Frequency of Purchases
+4528,47,Male,Sweater,Clothing,65,Michigan,XL,Burgundy,Winter,3.9,No,Free Shipping,No,No,29,PayPal,Quarterly
+2398,47,Male,Watch,Accessories,200,Pennsylvania,M,Silver,Summer,4.8,Yes,Next Day Air,Yes,Yes,30,Venmo,Bi-Weekly
+4029,48,Male,Shorts,Clothing,30,Pennsylvania,XL,Khaki,Spring,3.5,No,Express,No,No,19,Cash,Annually
+2389,47,Male,Hat,Accessories,20,Michigan,One Size,Black,Summer,4.0,No,Standard,No,No,15,Venmo,Quarterly
+2345,47,Male,Scarf,Accessories,25,Ohio,One Size,Striped,Winter,3.2,No,Standard,Yes,No,14,Cash,Quarterly
+3409,37,Female,Scarf,Accessories,25,Pennsylvania,L,Purple,Fall,3.5,No,Next Day Air,No,No,10,PayPal,Every 6 Months
+1003,39,Female,Belt,Accessories,35,Pennsylvania,One Size,Brown,Fall,4.4,No,Express,Yes,Yes,28,Cash,Monthly
+3420,48,Female,Handbag,Accessories,150,Pennsylvania,S,Brown,Fall,4.8,Yes,Next Day Air,Yes,Yes,25,Credit Card,Quarterly
+3025,25,Female,Dress Shoes,Footwear,60,Virginia,8,Rose Gold,Summer,4.5,No,2-Day Shipping,Yes,Yes,18,Venmo,Quarterly
+4321,48,Male,Hat,Accessories,25,Georgia,One Size,Navy,Summer,3.0,No,Express,No,No,30,Apple Pay,Monthly
+6398,47,Male,Belt,Accessories,25,Michigan,L,Brown,Winter,4.0,No,Express,No,No,23,Debit Card,Quarterly
+3198,47,Male,Scarf,Accessories,25,Virginia,S,Teal,Spring,3.5,No,Free Shipping,No,No,10,Venmo,Quarterly
+2345,30,Male,Jacket,Outerwear,85,Georgia,L,Navy,Winter,4.2,No,Next Day Air,Yes,No,19,Venmo,Annually
+3508,39,Female,Sweater,Clothing,85,Michigan,L,Burgundy,Fall,4.7,Yes,Next Day Air,Yes,Yes,27,Venmo,Monthly
+4523,30,Male,Watch,Accessories,120,Georgia,M,Silver,Summer,4.6,Yes,Next Day Air,Yes,Yes,40,Credit Card,Quarterly
+4309,47,Female,Leggings,Clothing,40,Georgia,L,Black,Summer,3.8,No,Express,No,No,22,Credit Card,Annually
+3056,42,Female,Sweater,Clothing,60,Michigan,L,Purple,Winter,4.8,No,Next Day Air,Yes,Yes,23,Cash,Quarterly
+3025,56,Female,Jacket,Outerwear,90,Arizona,XL,Brown,Winter,4.9,Yes,Next Day Air,Yes,Yes,35,Venmo,Annually
+803,37,Male,Smartwatch,Electronics,300,Michigan,9,Black,All Seasons,4.9,Yes,Free Shipping,No,No,23,Apple Pay,Monthly
+4025,45,Male,Watch,Accessories,150,Michigan,S,Silver,Fall,4.9,No,2-Day Shipping,No,No,16,PayPal,Fortnightly
+2498,40,Female,Jacket,Outerwear,80,Washington,L,Navy,Fall,4.8,Yes,Next Day Air,Yes,Yes,30,Venmo,Annually
+8912,27,Female,Purse,Accessories,80,Pennsylvania,S,Tan,Winter,4.6,Yes,Express,Yes,Yes,20,PayPal,Quarterly
+9823,44,Female,Scarf,Accessories,35,Michigan,42R,Purple,Winter,3.1,No,Express,No,No,10,Cash,Annually
+2356,31,Female,Scarf,Accessories,35,Pennsylvania,M,Purple,Fall,4.1,No,Free Shipping,No,No,14,PayPal,Quarterly
+3489,26,Male,Shorts,Clothing,20,Ohio,M,Blue,Spring,4.3,No,Free Shipping,Yes,Yes,10,PayPal,Monthly
+4025,22,Male,Watch,Accessories,50,Michigan,One size,Silver,Summer,4.0,Yes,Next Day Air,Yes,Yes,14,Venmo,Weekly
+3025,30,Female,Earrings,Jewelry,50,Michigan,One Size,Gold,Summer,4.3,No,Standard,No,No,20,PayPal,Monthly
+845,30,Male,Watch,Accessories,200,Georgia,M,Silver,All year round,4.9,Yes,Next Day Air,No,No,40,Credit Card,Weekly
+4002,49,Male,Gloves,Accessories,18,Pennsylvania,L,Gray,Winter,3.9,No,Standard,No,No,20,Cash,Fortnightly
+2356,22,Male,Headphones,Electronics,80,Washington,8,Black,Winter,4.6,No,2-Day Shipping,Yes,No,12,Venmo,Annually
+1357,42,Female,Leggings,Clothing,30,North Carolina,S,Black,Summer,4.1,No,Next Day Air,No,No,14,Debit Card,Monthly
+845,47,Female,Skirt,Clothing,40,Washington,6,Pink,Summer,3.5,No,2-Day Shipping,No,No,12,Venmo,Annually
+3045,25,Female,Skirt,Clothing,35,Washington,S,Yellow,Spring,4.0,No,Standard,No,No,19,CashApp,Bi-Weekly
+1002,24,Female,Skirt,Clothing,40,Pennsylvania,XS,Black,Fall,4.0,No,Free Shipping,Yes,Yes,10,Venmo,Annually
+305,40,Female,Scarf,Accessories,15,Ohio,One Size,Red,Summer,4.0,No,Free Shipping,Yes,No,14,Venmo,Monthly
+942,55,Female,Handbag,Accessories,100,Louisiana,M,Black,Spring,4.8,No,Express,No,No,29,Credit Card,Annually
+352,60,Male,Jeans,Clothing,60,Pennsylvania,L,Denim,Summer,4.3,No,2-Day Shipping,Yes,Yes,30,Venmo,Quarterly
+305,48,Female,Blazer,Clothing,90,Pennsylvania,L,Black,Fall,4.7,Yes,Next Day Air,No,No,35,Venmo,Quarterly
+3045,29,Male,Belt,Accessories,30,Michigan,36,Brown,Fall,4.0,No,Standard,No,No,14,Debit Card,Every 3 Months
+3045,31,Male,Watch,Accessories,180,Arizona,N/A,Silver,All Year,4.5,Yes,Next Day Air,No,Yes,37,Venmo,Fortnightly
+3089,22,Female,Skirt,Clothing,30,Arizona,S,Pink,Summer,4.8,No,Express,Yes,No,12,Venmo,Annually
+3029,23,Male,Watch,Accessories,120,Arizona,One Size,Gold,Winter,4.8,No,Standard,Yes,Yes,14,Venmo,Quarterly
+3056,37,Male,Suit,Clothing,300,Pennsylvania,L,Navy,Fall,4.8,Yes,Next Day Air,Yes,Yes,25,PayPal,Quarterly
+4098,33,Male,Watch,Accessories,100,Michigan,M,Silver,Winter,4.4,No,Next Day Air,Yes,Yes,28,Venmo,Quarterly
+1005,41,Male,Watch,Accessories,150,Washington,N/A,Silver,Year-round,4.8,Yes,Next Day Air,Yes,Yes,32,Apple Pay,Bi-Weekly
+3085,48,Male,Scarf,Accessories,18,Arizona,One Size,Yellow,Fall,3.8,No,Store Pickup,No,No,30,Venmo,Quarterly
+,39,Female,Skirt,Clothing,45,Ohio,M,Floral,Spring,3.8,No,Express,No,No,14,Venmo,Every 3 Months
+325,48,Male,Jacket,Outerwear,120,Arizona,XL,Army Green,Winter,4.6,No,Next Day Air,Yes,Yes,30,Venmo,Quarterly
+413,49,Female,Earrings,Accessories,30,Washington,32,Gold,Winter,4.3,Yes,Next Day Air,No,Yes,22,Venmo,Annually
+3025,39,Female,Scarf,Accessories,15,Washington,One Size,Grey,Winter,4.3,Yes,Free Shipping,Yes,Yes,22,Credit Card,Annually

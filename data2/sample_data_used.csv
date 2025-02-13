@@ -1,0 +1,11 @@
+Customer ID,Age,Gender,Item Purchased,Category,Purchase Amount (USD),Location,Size,Color,Season,Review Rating,Subscription Status,Shipping Type,Discount Applied,Promo Code Used,Previous Purchases,Payment Method,Frequency of Purchases
+1762,21,Male,Hoodie,Clothing,95,Hawaii,S,Green,Fall,4.9,No,2-Day Shipping,No,No,24,Cash,Weekly
+527,51,Male,Pants,Clothing,52,New Jersey,S,Red,Winter,4.9,Yes,Standard,Yes,Yes,19,Cash,Monthly
+916,31,Male,Dress,Clothing,22,Rhode Island,L,Purple,Winter,2.9,Yes,Store Pickup,Yes,Yes,33,Credit Card,Fortnightly
+3004,51,Female,Blouse,Clothing,53,Oregon,M,Brown,Fall,2.8,No,Express,No,No,13,Credit Card,Every 3 Months
+2118,27,Male,Dress,Clothing,28,Colorado,L,Brown,Summer,3.8,No,Free Shipping,No,No,11,Debit Card,Annually
+1171,57,Male,Skirt,Clothing,62,Illinois,S,Red,Spring,3.2,No,Express,Yes,Yes,33,Cash,Bi-Weekly
+770,52,Male,Socks,Clothing,100,Delaware,M,Silver,Spring,4.3,Yes,Store Pickup,Yes,Yes,8,PayPal,Monthly
+1643,18,Male,Coat,Outerwear,70,Mississippi,M,Beige,Spring,4.2,No,Store Pickup,Yes,Yes,16,PayPal,Fortnightly
+2161,45,Male,Blouse,Clothing,92,West Virginia,L,Charcoal,Winter,3.3,No,Express,No,No,21,PayPal,Annually
+1726,45,Male,Sunglasses,Accessories,33,Massachusetts,M,Indigo,Spring,3.0,No,Next Day Air,No,No,32,Venmo,Quarterly
