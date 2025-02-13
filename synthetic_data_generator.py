@@ -1,12 +1,10 @@
+
 import os
 import pandas as pd
 import numpy as np
-from typing import Any, Dict, List, Type
+from typing import Dict, List
 from langchain.prompts import FewShotPromptTemplate, PromptTemplate
 from langchain_openai import ChatOpenAI
-from pydantic import BaseModel, Field
-from langchain_experimental.tabular_synthetic_data.base import SyntheticDataGenerator
-from langchain_experimental.tabular_synthetic_data.openai import create_openai_data_generator
 from langchain_experimental.tabular_synthetic_data.prompts import (
     SYNTHETIC_FEW_SHOT_PREFIX,
     SYNTHETIC_FEW_SHOT_SUFFIX,
@@ -18,37 +16,6 @@ except ImportError:
     raise ImportError(
         "Could not find config.py. Please create this file with your OPENAI_API_KEY."
     )
-
-def infer_field_types(df: pd.DataFrame) -> Dict[str, Any]:
-    """
-    Infer Pydantic field types from DataFrame columns
-    """
-    type_mapping = {
-        'int64': int,
-        'float64': float,
-        'object': str,
-        'bool': bool,
-        'datetime64[ns]': str
-    }
-    
-    field_definitions = {}
-    for col, dtype in df.dtypes.items():
-        python_type = type_mapping.get(str(dtype), str)
-        # Create annotated field definition for Pydantic V2
-        field_definitions[col] = (python_type, Field(description=f"Field for {col}"))
-        
-    # Create model attributes dictionary with proper type annotations
-    model_attrs = {
-        '__annotations__': {
-            field_name: field_type for field_name, (field_type, _) in field_definitions.items()
-        },
-        # Add the Field definitions
-        **{
-            field_name: field_info for field_name, (_, field_info) in field_definitions.items()
-        }
-    }
-    
-    return model_attrs
 
 def create_examples(df: pd.DataFrame, num_examples: int = 3, random_seed: int = None) -> tuple[List[Dict], pd.DataFrame]:
     """

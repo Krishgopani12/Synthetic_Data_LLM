@@ -75,9 +75,3 @@ synthetic_df, sample_df = generate_synthetic_data(
 - The quality of synthetic data depends on the quality and representativeness of the sample data
 - Higher temperature values (closer to 2.0) result in more creative but potentially less accurate data
 - Lower temperature values (closer to 0.0) result in more conservative and consistent data
-
-## License
-MIT License
-
-## Contributing
-Contributions are welcome! Please feel free to submit a Pull Request.
